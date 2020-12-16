@@ -1,9 +1,9 @@
 def new_hash
-  new_hash {}
+  # new_hash {}
 end
 
 def my_hash
-  # my_hash {:zed => "is awesome"}
+  my_hash {:zed => "is awesome"}
 end
 
 def pioneer
